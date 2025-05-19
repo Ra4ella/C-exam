@@ -1,0 +1,7 @@
+E:\Шаг КУЦЕНКО\Сетевое программирование\Messanger for Building\Client\bin\Debug\Client.exe.config
+E:\Шаг КУЦЕНКО\Сетевое программирование\Messanger for Building\Client\bin\Debug\Client.exe
+E:\Шаг КУЦЕНКО\Сетевое программирование\Messanger for Building\Client\bin\Debug\Client.pdb
+E:\Шаг КУЦЕНКО\Сетевое программирование\Messanger for Building\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+E:\Шаг КУЦЕНКО\Сетевое программирование\Messanger for Building\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Шаг КУЦЕНКО\Сетевое программирование\Messanger for Building\Client\obj\Debug\Client.exe
+E:\Шаг КУЦЕНКО\Сетевое программирование\Messanger for Building\Client\obj\Debug\Client.pdb
